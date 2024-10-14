@@ -4,7 +4,9 @@
 
 Приложение для отслеживания привычек
 
-https://github.com/alekssolovev/HabitTracker/tree/master
+https://github.com/alekssolovev/HabitTracker/tree/master (отсюда проект не копируется)
+
+https://github.com/alekssolovev/HabitTracker2 (тот же репозиторий ,но можно скопировать и открыт pull request)
 
 
 Описание проекта:
